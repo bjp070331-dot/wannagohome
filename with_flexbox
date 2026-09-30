@@ -4,10 +4,3 @@
   <div>박스2</div>
   <div>박스3</div>
 </div>
-
-/* CSS: 부모에게 flex 지시 */
-.container {
-  display: flex;
-  justify-content: center;
-  gap: 12px;
-}
