@@ -4,3 +4,9 @@
   <div>박스2</div>
   <div>박스3</div>
 </div>
+
+.container {
+  display: flex;
+  justify-content: center;
+  gap: 12px;
+}
